@@ -3,7 +3,7 @@ HSC Chemistry Notes
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
+   :numbered: 3
    :caption: Year 11 Content
 
    year-11/module-1/index
@@ -14,7 +14,7 @@ HSC Chemistry Notes
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
+   :numbered: 3
    :caption: Year 12 Content
 
    year-12/module-5/index
