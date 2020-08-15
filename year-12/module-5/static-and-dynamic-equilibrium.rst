@@ -1,0 +1,2 @@
+Static and Dynamic Equilibrium
+==================================
