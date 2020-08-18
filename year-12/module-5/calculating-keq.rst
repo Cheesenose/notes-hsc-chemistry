@@ -1,2 +1,2 @@
-Calculating the Equilibrium Constant (Keq)
+Calculating the Equilibrium Constant (K\ :sub:`eq`)
 ==============================================
