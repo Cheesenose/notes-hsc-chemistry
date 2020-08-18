@@ -32,7 +32,7 @@ extensions = [
     "sphinx.ext.mathjax", # math expressions
     "sphinx.ext.autosectionlabel", # easier to reference sections
     "sphinxext.opengraph", # url preview embed
-    "hoverxref.extension",
+    "hoverxref.extension", # hover glossary terms
 ]
 
 
