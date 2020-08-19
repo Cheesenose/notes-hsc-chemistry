@@ -32,7 +32,8 @@ extensions = [
     "sphinx.ext.mathjax", # math expressions
     "sphinx.ext.autosectionlabel", # easier to reference sections
     "sphinxext.opengraph", # url preview embed
-    "hoverxref.extension", # hover glossary terms
+    "hoverxref.extension", # hover glossary terms,
+    "sphinx.ext.mathjax", # mathjax
 ]
 
 
@@ -47,6 +48,12 @@ hoverxref_mathjax = True
 
 # Autosection labels prefix document path and filename
 autosectionlabel_prefix_document = True
+
+mathjax_config = {
+    "extensions": ["mhchem.js"]
+}
+# mhchem not available on mathjax 2.7
+mathjax_path = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]

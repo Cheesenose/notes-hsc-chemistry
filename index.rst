@@ -27,4 +27,5 @@ HSC Chemistry Notes
    :maxdepth: 1
    :caption: Endmatter
 
+   assessing-sources
    glossary

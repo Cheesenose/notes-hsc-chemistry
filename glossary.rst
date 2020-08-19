@@ -3,5 +3,11 @@ Glossary
 
 .. glossary::
 
-    dab
-      people go dab
+    accuracy
+      See :ref:`accuracy`.
+
+    reliability
+      See :ref:`reliability`.
+
+    validity
+      See :ref:`validity`.
