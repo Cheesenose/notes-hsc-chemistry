@@ -42,6 +42,7 @@ Validity can be assesed with:
 
 * mention variables being controlled
 * only ONE variable should be changed, and its effect on ONE dependent variable
+* state how errors (e.g. friction in a pendulum swing gravity experiment) have been minimised (or not)
 
 Precision
 ^^^^^^^^^
