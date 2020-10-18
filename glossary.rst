@@ -11,3 +11,6 @@ Glossary
 
     validity
       See :ref:`validity`.
+
+    monomer
+      A small molecule which reacts with other molecules to combine to form a polymer.
