@@ -130,8 +130,6 @@ When heating a thermosetting polymer, bonds within the carbon chain will often b
     Past the elastic limit, they plastically (i.e. permanently) deform to a different shape and eventually break at their tensile strength.
     What perhaps a better description for "elastic" would be "stiff", and this is expressed through the modulus of elasticity (Young's Modulus) - stress over %elongation.
 
-    Highly elastic materials will retain their elasticity even with large amounts of force applied to them (elastomers plastically deform after a certain amount of force).
-    For example, natural rubber (an elastomer) has a modulus of elasticity of ~0.1GPa, whilst nylon 6,6 has a modulus of elasticity of ~3GPa - nearly 30x more.
 
 .. note::
     A good resource on polymers is `this book from libretexts <https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/29%3A_Polymers>`_.
@@ -188,16 +186,17 @@ As it can be flexible and water insoluble, and does not decompose under UV, it i
 Polystyrene
 ^^^^^^^^^^^
 
-A styrene monomer contains a bulky benezene ring which decreases packing ability but makes the polymer quite polar.
+A styrene monomer contains a bulky benezene ring which decreases packing ability but increases molar mass.
 
 .. image:: images/polystyrene.png
    :align: center
    :width: 50%
 
-Just like PVC, polystyrene mainly forms atactic forms, with the benzene rings randomly arranged on either side of the molecular.
-This reduces the linearity of chains and hence it would not have as strong intermolecular forces as expected (though they are still quite strong).
-The structure is amorphous.
+Just like PVC, polystyrene mainly forms an atactic structure, with the benzene rings randomly arranged on either side of the molecular.
+This makes polymer very amorphous and thus the dispersion forces are weakened due to larger distances. 
+However, due to the higher molar mass and thus high number of electrons dispersion forces are still reasonably strong.
 
+The large benzene ring makes the chain brittle because (and stiff) because when the chain is put under stress the benzene ring's come closer and repel each other.
 The polar benzene ring serves to make the molecular very rigid, which results in it being brittle.
 The low packing ability makes polystyrene have a low density.
 
@@ -242,7 +241,7 @@ A common example of a nylon polymer is nylon 6,6 which is produced with the reac
 
 The initial polymer is formed as unorientated crystalline but when cold-drawn into ropes the crystalline structures becomes orientated.
 
-The amide groups in the chains are polar and can form hydrogen bonds between chains. The strong intermolecular forces results in high boiling points as well as making it hard to stretch the chain - resulting in a high elasticity (modulus elasticity = ~3GPa) and high elastic limit (>60MPa).
+The amide groups in the chains are polar and can form hydrogen bonds between chains. The strong intermolecular forces results in high boiling points as well as making it hard to stretch the chain - resulting in a high stiffness and elastic limit.
 
 The high tensile strength of the nylon means that it can be used for rope, fishing lines, and other fibres.
 
